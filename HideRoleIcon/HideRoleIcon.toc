@@ -1,0 +1,5 @@
+## Interface: 16001
+## Title: HideRoleIcon
+## Notes: Hides the role icon on default raid-style party/raid frames. /hri opens the options menu.
+## SavedVariables: HideRoleIconDB
+core.lua
